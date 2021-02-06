@@ -1,5 +1,5 @@
 {
-  "name": "lizshigetoshi.com",
+  "name": "lshig.github.io",
   "private": true,
   "description": "lizshigetoshi.com built with Gatsby",
   "version": "0.1.0",
@@ -8,7 +8,7 @@
     "build": "gatsby build",
     "deploy": "gatsby build && gh-pages -d public -b main",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,json,md}\"",
+    "prettier": "prettier --write \"**/*.{js,json,md}\"",
     "svgo": "svgo --pretty --indent=2 --config=svgo.yml --folder=src/styles/images",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -33,9 +33,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lshig/lizshigetoshi.com"
+    "url": "https://github.com/lshig/lshig.github.io"
   },
   "bugs": {
-    "url": "https://github.com/lshig/lizshigetoshi.com/issues"
+    "url": "https://github.com/lshig/lshig.github.io/issues"
   }
 }
