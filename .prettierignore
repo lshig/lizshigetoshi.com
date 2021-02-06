@@ -1,0 +1,10 @@
+.cache
+package.json
+package-lock.json
+public
+dist
+.DS_Store
+node_modules
+npm-debug.log
+coverage
+.vscode
