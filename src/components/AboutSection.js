@@ -19,7 +19,7 @@ export default function AboutSection() {
         />
         <ul>
           <li>
-            <NewTabLink link="https://lshig.github.io/sacramento-music/">
+            <NewTabLink link="https://lizshigetoshi.com/sacramento-music/">
               916
             </NewTabLink>{' '}
             born-and-raised and loyal Sacramento Kings fan
@@ -27,7 +27,7 @@ export default function AboutSection() {
           <li>Likely found squatting at a coffee shop or a power rack</li>
           <li>
             Wanderlusted to{' '}
-            <NewTabLink link="https://lshig.github.io/map-play/">
+            <NewTabLink link="https://lizshigetoshi.com/map-play/">
               16 U.S. states and 13 countries
             </NewTabLink>{' '}
             since 2013
