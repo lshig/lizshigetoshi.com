@@ -22,7 +22,11 @@ export default function AboutSection() {
             <NewTabLink link="https://lizshigetoshi.com/sacramento-music/">
               916
             </NewTabLink>{' '}
-            born-and-raised and loyal Sacramento Kings fan
+            born-and-raised and loyal{' '}
+            <NewTabLink link="https://github.com/lshig/sacramento-kings-cli/">
+              Sacramento Kings
+            </NewTabLink>{' '}
+            fan
           </li>
           <li>Likely found squatting at a coffee shop or a power rack</li>
           <li>

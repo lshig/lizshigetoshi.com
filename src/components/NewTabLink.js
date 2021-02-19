@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function NewTabLink({ children, link }) {
   return (
-    <a href={link} rel="noreferrer" target="_blank">
+    <a href={link} rel="noopener noreferrer" target="_blank">
       {children}
     </a>
   );
