@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import SectionHeading from './SectionHeading';
 import WorkCard from './WorkCard';
 
@@ -13,11 +13,11 @@ export default function WorkSection() {
     {
       emojis: ['cow', 'speech_balloon'],
       employer: (
-        <Fragment>
+        <>
           UC Davis
           <br />
           Energy Conservation Office
-        </Fragment>
+        </>
       ),
       link: 'https://thermoostat.ucdavis.edu',
       title: 'TherMOOstat'
@@ -25,11 +25,11 @@ export default function WorkSection() {
     {
       emojis: ['mortar_board', 'bar_chart'],
       employer: (
-        <Fragment>
+        <>
           UC Davis
           <br />
           Energy Conservation Office
-        </Fragment>
+        </>
       ),
       link: 'https://ceed.ucdavis.edu',
       title: 'Campus Energy Education Dashboard'
@@ -37,14 +37,13 @@ export default function WorkSection() {
     {
       emojis: ['fist', 'sos'],
       employer: (
-        <Fragment>
+        <>
           UC Davis
           <br />
           Department of Design
-        </Fragment>
+        </>
       ),
-      link:
-        'https://www.davisenterprise.com/local-news/ucd-students-social-media-tool-garners-attention/',
+      link: 'https://www.davisenterprise.com/local-news/ucd-students-social-media-tool-garners-attention/',
       title: 'Stories of Solidarity'
     }
   ];

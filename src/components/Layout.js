@@ -1,15 +1,15 @@
 import PropTypes from 'prop-types';
-import React, { Fragment } from 'react';
-import Header from '../components/Header';
-import SEO from '../components/SEO';
+import React from 'react';
+import Header from './Header';
+import Seo from './Seo';
 
 export default function Layout({ children }) {
   return (
-    <Fragment>
-      <SEO />
+    <>
+      <Seo />
       <Header />
       <main>{children}</main>
-    </Fragment>
+    </>
   );
 }
 

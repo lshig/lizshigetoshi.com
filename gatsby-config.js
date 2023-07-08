@@ -9,9 +9,9 @@ module.exports = {
     twitterUsername: '@LizShigetoshi',
     url: 'https://lizshigetoshi.com'
   },
+  trailingSlash: 'never',
   plugins: [
     'gatsby-plugin-sass',
-    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
