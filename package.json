@@ -9,7 +9,7 @@
     "deploy": "gatsby build && gh-pages -d public -b main",
     "develop": "gatsby develop",
     "prettier": "prettier --write \"**/*.{js,json,md}\"",
-    "svgo": "svgo --pretty --indent=2 --config=svgo.yml --folder=src/styles/images",
+    "svgo": "svgo --pretty --indent=2 --folder=src/styles/images",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"

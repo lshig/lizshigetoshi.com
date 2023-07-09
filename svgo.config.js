@@ -1,8 +1,8 @@
 module.exports = {
-  plugins: extendDefaultPlugins([
+  plugins: [
     {
       name: 'removeViewBox',
       active: false
     }
-  ])
+  ]
 };
