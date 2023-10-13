@@ -15,18 +15,18 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^5.11.0",
-    "gatsby-plugin-manifest": "^5.11.0",
-    "gatsby-plugin-sass": "^6.11.0",
+    "gatsby": "^5.12.6",
+    "gatsby-plugin-manifest": "^5.12.1",
+    "gatsby-plugin-sass": "^6.12.1",
     "gemoji": "^8.1.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.63.6"
+    "sass": "^1.69.3"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0",
-    "prettier": "^3.0.0",
+    "gh-pages": "^6.0.0",
+    "prettier": "^3.0.3",
     "svgo": "^3.0.2"
   },
   "repository": {
