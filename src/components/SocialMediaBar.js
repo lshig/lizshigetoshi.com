@@ -22,12 +22,6 @@ export default function SocialMediaBar() {
       link: 'https://www.linkedin.com/in/elizabethshigetoshi'
     },
     {
-      icon: 'facebook-square',
-      id: 'facebook',
-      isNewTab: true,
-      link: 'https://facebook.com/shigetoshi'
-    },
-    {
       icon: 'instagram',
       id: 'instagram',
       isNewTab: true,

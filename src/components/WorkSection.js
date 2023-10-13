@@ -43,7 +43,7 @@ export default function WorkSection() {
           Department of Design
         </>
       ),
-      link: 'https://www.davisenterprise.com/local-news/ucd-students-social-media-tool-garners-attention/',
+      link: 'https://www.davisenterprise.com/news/ucd-students-social-media-tool-garners-attention/article_1a5b0689-0279-5ab6-89f9-2a09ab962995.html',
       title: 'Stories of Solidarity'
     }
   ];
