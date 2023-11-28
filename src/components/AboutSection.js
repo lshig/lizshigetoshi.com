@@ -31,7 +31,7 @@ export default function AboutSection() {
           <li>Likely found squatting at a coffee shop or a power rack</li>
           <li>
             Wanderlusted to{' '}
-            <NewTabLink link="https://lizshigetoshi.com/map-play/">
+            <NewTabLink link="https://lizshigetoshi.com/wander-map/">
               16 U.S. states and 13 countries
             </NewTabLink>{' '}
             since 2013
